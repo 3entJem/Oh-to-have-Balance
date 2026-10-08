@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/ClimbUp.uasset",
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up.uasset",
+				"C:/Users/livyj/OneDrive/Documents/Unreal Projects/OhToHaveBalance/Content/FreeAnimationLibrary/Animations/Climbing_Animations/WallGrab_unGrab/BottomClimbMontage.uasset"
+			]
+		}
+	]
+}
